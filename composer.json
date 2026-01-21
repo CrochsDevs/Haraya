@@ -1,5 +1,8 @@
 {
     "require": {
         "mallardduck/blade-lucide-icons": "^1.26"
+    },
+    "require-dev": {
+        "laravel/breeze": "^2.3"
     }
 }
